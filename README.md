@@ -20,3 +20,6 @@ ccfg_cli get xxx
 ```
 
 >*Thanks to Quallenauge for the work over at his [openWrt-fork](https://github.com/Quallenauge/Easybox-904-XDSL) and the [openWrt-forum](https://forum.openwrt.org/viewtopic.php?id=44676). Huge portions of this guide were taken from the openwrt forum. Please thank these guys for the affords! Specials thanks to all the issues and feedback I get in this repo, you guys keep me going :)*
+
+
+Viele Kredit zum #Majuss. Danke sehr für deine Hilfe!
